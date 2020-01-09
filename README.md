@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sohamcontractor2018/chef-works/_apis/build/status/panzershaft.chef-repo?branchName=master)](https://dev.azure.com/sohamcontractor2018/chef-works/_build/latest?definitionId=2&branchName=master)
 # Overview
 
 Every Chef installation needs a Chef Repository. This is the place where cookbooks, roles, config files and other artifacts for managing systems with Chef will live. We strongly recommend storing this repository in a version control system such as Git and treat it like source code.
